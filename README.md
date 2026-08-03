@@ -72,13 +72,13 @@
 1. Клонируйте репозиторий на свой ПК:
 
 ```bash
-git clone git@github.com:afanassk/ono-tebe-nado-fd.git
+git clone git@github.com:afanassk/ono-tebe-nado.git
 ```
 
 2. Перейдите в директорию проекта:
 
 ```bash
-cd ono-tebe-nado-fd
+cd ono-tebe-nado
 ```
 
 3. Откройте файл `index.html` в браузере.
